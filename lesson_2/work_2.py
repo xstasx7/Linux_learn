@@ -101,12 +101,4 @@
 # print("Упорядочено по возрастанию:\n"
 #       "{} - {}".format(number, answer))
 
-from collections import namedtuple
 
-Point = namedtuple('Point', 'xy')
-p = Point(1, y=2)
-Point(x=1, y=2)
-p[0]
-# 1
-p.x
-# 1
