@@ -86,4 +86,3 @@
 # dist = round(num ** 0.5, 2)
 # print(f'A ({x_a},{y_a}; B ({x_b},{y_b}) -> {dist}')
 
-
